@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-      <b>welcome</b>
+      <b>welcome To the Project</b>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
